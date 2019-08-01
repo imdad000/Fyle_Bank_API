@@ -1,5 +1,5 @@
  
- Provding Bank Detail
+ Provding Bank Detail Using DjangoRest-Framework
 ===================
 REST API service that can provide:
 
