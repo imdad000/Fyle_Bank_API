@@ -18,7 +18,7 @@ https://dudley-poutine-54936.herokuapp.com/api/bankdetail/MUMBAI/ABHYUDAYA%20COO
 
 Git Clone:
 ```bash
-git clone https://github.com/imdad000/fyle
+https://github.com/imdad000/Fyle_Bank_API
 ```
 
 Database which is to be created and then make a table consists of:
