@@ -1,0 +1,10 @@
+django
+gunicorn
+django-heroku
+djangorestframework
+djangorestframework-jwt
+requests
+dj-database-url
+psycopg2
+python-dotenv
+whitenoise
