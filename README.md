@@ -1,15 +1,3 @@
-# Provding Bank Detail
-
- ## REST API service that can provide:
-
- - Give a bank branch IFSC code, get branch details
- - Give a bank name and city, gets details of all branches of the bank in the city
-
-Demo Link
-
-  https://dudley-poutine-54936.herokuapp.com/api/getbank/ABHY0065002 
-  
- 
  
  Provding Bank Detail
 ===================
