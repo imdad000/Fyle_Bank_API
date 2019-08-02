@@ -1,0 +1,13 @@
+
+curl -X POST -d "username=admin&password=123456" https://dudley-poutine-54936.herokuapp.com/api/token/
+
+
+curl -H "Content-Type: application/json" -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6ImFkbWluIiwiZXhwIjoxNTY0NzUxMTUwLCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSJ9.0_CWUUhmQ9hcavPpr4RZLEbJGaqQZDbk-zTFhNSfai0" -X GET  https://dudley-poutine-54936.herokuapp.com/api/getbank/ABHY0065002 
+
+
+curl -H "Content-Type: application/json" -H "Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxLCJ1c2VybmFtZSI6ImFkbWluIiwiZXhwIjoxNTY0NzUyNTg1LCJlbWFpbCI6ImFkbWluQGdtYWlsLmNvbSJ9.vtMI8k6IV8RokND_a1EWkmCcoDwwfiulNUYekvgi_6U" -X GET  https://dudley-poutine-54936.herokuapp.com/api/bankdetail/MUMBAI/ABHYUDAYA%20COOPERATIVE%20BANK%20LIMITED
+
+
+
+
+put the new generated Tokens After the Bearer.
